@@ -1,0 +1,12 @@
+desktop.ini
+style-guide.md
+*.txt
+/static
+*.sketch
+*.fig
+
+
+*.xd
+
+.DS_Store
+.prettierignore
